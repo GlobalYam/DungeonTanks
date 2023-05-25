@@ -1,0 +1,10 @@
+[MASTER]
+extension-pkg-whitelist=pygame
+ignore=tests
+
+[MESSAGES CONTROL]
+disable=missing-docstring
+
+[FORMAT]
+good-names=x,y
+max-line-length=120
